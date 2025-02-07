@@ -1,2 +1,2 @@
 # linear-regression
-Linear Regression in Excel
+Linear Regression and analysis
